@@ -10,3 +10,4 @@
 ##Step 7: Appropriately labels the data set with descriptive variable names. 
 ## Step 8: Create a tidydataset (tidydata.txt) for exportation, with the average of each variable for each activity and each subject.
 # gettingdataproject
+# gettingdataproject
