@@ -1,0 +1,1 @@
+# Functions for the project. load with source('functions.R')

@@ -11,3 +11,4 @@
 ## Step 8: Create a tidydataset (tidydata.txt) for exportation, with the average of each variable for each activity and each subject.
 # gettingdataproject
 # gettingdataproject
+# gettingdata

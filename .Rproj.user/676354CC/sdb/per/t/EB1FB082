@@ -1,0 +1,17 @@
+{
+    "contents" : "# Functions for the project. load with source('functions.R')",
+    "created" : 1428861016784.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3426412044",
+    "id" : "EB1FB082",
+    "lastKnownWriteTime" : 1428861039,
+    "path" : "~/Dropbox/DataScience/GettingData/GettingDataProject/functions.R",
+    "project_path" : "functions.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
