@@ -1,4 +1,4 @@
-## Step 1: Load the required library.
+## Step 1: Load the required library. 
 library(dplyr) #dplyr R 3.1.3
 
 ## Step 2: Download and unzip the data file in the current directory. 

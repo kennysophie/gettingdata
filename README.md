@@ -1,4 +1,4 @@
-### ReadMe
+### ReadMe 
 run_analysis.R contain the code to perform the following 8 steps : 
 Step 1: Load the required library. 
 Step 2: Download and unzip the data file in the current directory. 

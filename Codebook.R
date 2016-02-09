@@ -2,7 +2,7 @@
 #Wearable devices are an exciting prospect for data scientists everywhere. 
 # Samsung has acquired such data, which is the basis for our this course's project. 
 # Our objective was to tidy up the raw dataset according to the principles learned 
-# 'Getting Data' Coursera Online Class.
+# 'Getting Data' Coursera Online Class. 
 # 
 # Samsung give the following summary description on the page where a full description of the original data is available: (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 #*The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
